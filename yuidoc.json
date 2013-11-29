@@ -1,0 +1,9 @@
+{
+    "name": "ember-list-addons",
+    "description": "Addons to Ember ListView and ArrayController",
+    "version": "0.0.0",
+    "options": {
+        "outdir": "apidocs",
+        "linkNatives": true
+    }
+}
